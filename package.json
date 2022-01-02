@@ -1,0 +1,22 @@
+{
+  "name": "jest2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainchu18/jest2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ainchu18/jest2/issues"
+  },
+  "homepage": "https://github.com/ainchu18/jest2#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
